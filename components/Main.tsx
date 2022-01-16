@@ -25,22 +25,19 @@ const Main = () => {
               alt=""
             />
             <img
-              className="object-contain object-center"
-              h-full
+              className="object-contain object-center h-full bg-yellow-500"
               bg-yellow-500
               src="/assets/img5.jpg"
               alt=""
             />
             <img
-              className="object-contain object-center"
-              h-full
+              className="object-contain object-center h-full bg-yellow-500"
               bg-yellow-500
               src="/assets/bte3.jpg"
               alt=""
             />
             <img
-              className="object-contain object-center"
-              h-full
+              className="object-contain object-center h-full bg-yellow-500"
               bg-yellow-500
               src="/assets/banner.png"
               alt=""
